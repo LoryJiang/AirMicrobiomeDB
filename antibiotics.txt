@@ -1,0 +1,22 @@
+KO	Antibiotics
+K00662	Aminoglycoside resistance
+K00663	Aminoglycoside resistance
+K00897	Aminoglycoside resistance
+K00984	Aminoglycoside resistance
+K03395	Aminoglycoside resistance
+K04343	Aminoglycoside resistance
+K05593	Aminoglycoside resistance
+K10673	Aminoglycoside resistance
+K12570	Aminoglycoside resistance
+K01467	Beta-lactam resistance
+K00561	MLSB
+K06880	MLSB
+K06979	MLSB
+K08160	MLSB
+K08217	MLSB
+K08151	Tetracycline resistance
+K08168	Tetracycline resistance
+K08167	Other Resistance Genes
+K11210	Other Resistance Genes
+K07552	Other Resistance Genes
+K00638	Other Resistance Genes
